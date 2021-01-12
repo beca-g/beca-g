@@ -16,6 +16,7 @@
 
 ![Javascript](https://img.shields.io/badge/Code-Javascript-white)
 ![ruby](https://img.shields.io/badge/Code-Ruby-white)
+![React](https://img.shields.io/badge/Frameworks-React-white)
 ![sinatra](https://img.shields.io/badge/Frameworks-Sinatra-white)
 ![rails](https://img.shields.io/badge/Frameworks-Rails-white)
 ![Jasmine](https://img.shields.io/badge/Test-Jasmine-white)
