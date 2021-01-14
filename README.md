@@ -4,7 +4,7 @@
 
 **👩🏼‍💻 Currently looking for a Junior Developer role**
 
-**👩🏼‍🎨 Professional experience in** Product Development, Account Management and Production managment in fashion
+**👩🏼‍🎨 Professional experience in** Product Development, Account Management and Production Managment in Fashion
 
 **👩🏼‍🎓 Studied Software Engineering at [Makers Academy](https://makers.tech/)**
 
