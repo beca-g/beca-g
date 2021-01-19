@@ -24,7 +24,7 @@
 ![CI](https://img.shields.io/badge/CI-Travis-white)
 ![PostreSQL](https://img.shields.io/badge/Tools-PostgreSQL-white)
 
-**To learn more about my background and experience take a look at [my GitHub CV](https://github.com/beca-g/CV)**
+**To learn more about my background and experience take a look at my GitHub [CV](https://github.com/beca-g/CV)**
 
 
 <!--
