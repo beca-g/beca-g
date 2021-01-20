@@ -1,6 +1,7 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/beca-g) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/rebekah-galliano/)&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='25'>](https://www.codewars.com/users/becag)  
-
-### Hey, I'm Beca 👋
+### Hey, I'm Beca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="" width="22px" src="" />
+</a>
 
 **👩🏼‍💻 Currently looking for a Junior Developer role**
 
