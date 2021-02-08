@@ -11,7 +11,7 @@
 
 **💻 I’m currently working on** an exciting app idea with some fellow Makers
 
-**🌱 I’m currently learning** React Native
+**🌱 I’m currently learning** Node.js
 
 ### Technologies & Tools
 <p align="center">
