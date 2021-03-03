@@ -9,9 +9,9 @@
 
 **👩🏼‍🎓 Studied Software Engineering at [Makers Academy](https://makers.tech/)**
 
-**💻 I’m currently working on** an exciting app idea with some fellow Makers
+**💻 I’m currently working on** a game idea with another Maker
 
-**🌱 I’m currently learning** Node.js
+**🌱 I’m currently** consolidating my Makers knowlegde 
 
 ### Technologies & Tools
 <p align="center">
