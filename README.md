@@ -9,7 +9,7 @@
 
 **👩🏼‍🎓 Studied Software Engineering at [Makers Academy](https://makers.tech/)**
 
-**💻 I’m currently working on** a game idea with another Maker
+**💻 I’m currently working on** a mini game with another Maker
 
 **🌱 I’m currently** consolidating my Makers knowlegde 
 
