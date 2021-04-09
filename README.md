@@ -3,7 +3,7 @@
   <img align="left" alt="" width="22px" src="" />
 </a>
 
-**👩🏼‍💻 About to start my first tech job
+**👩🏼‍💻 About to start my first tech job **
 
 **👩🏼‍🎨 Professional experience in** Product Development, Account Management and Production Managment in Fashion
 
@@ -11,7 +11,7 @@
 
 **💻 I’m currently working on** a mini game with another Maker
 
-**🌱 I’m currently** learning typscript 
+**🌱 I’m currently learning** TypeScript 
 
 ### Technologies & Tools
 <p align="center">
