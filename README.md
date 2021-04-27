@@ -3,7 +3,7 @@
   <img align="left" alt="" width="22px" src="" />
 </a>
 
-**👩🏼‍💻 About to start my first tech job**
+**👩🏼‍💻 About to start my first job in tech**
 
 **👩🏼‍🎨 Professional experience in** Product Development, Account Management and Production Managment in Fashion
 
