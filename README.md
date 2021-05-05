@@ -9,7 +9,7 @@
 
 **👩🏼‍🎓 Studied Software Engineering at [Makers Academy](https://makers.tech/)**
 
-**🌱 I’m currently learning** TypeScript 
+**🌱 I’m currently learning** TypeScript & Vue
 
 ### Technologies & Tools
 <p align="center">
