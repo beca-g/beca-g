@@ -13,10 +13,12 @@
 
 ### Technologies & Tools
 <p>
-  
-  <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-%238D6748?style=for-the-badge&logo=Mocha&logoColor=white&style=plastic" /> 
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red&style=plastic" /> 
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&style=plastic" /> 
+  <img src="https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white&style=plastic" /> 
+  <img alt="Rails" src="https://img.shields.io/badge/Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white&style=plastic"/> 
+  <img src="https://img.shields.io/badge/Rspec-CC0000?style=for-the-badge&logo=RubyGems&logoColor=white&style=plastic" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic" /> 
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red&style=plastic" /> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=plastic" /> 
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white&style=plastic"/> 
   <img src="https://img.shields.io/badge/-Travis%20CI-{3EAAAF}?logo=Travis&logoColor=&style=plastic" /> 
@@ -36,10 +38,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=plastic" />  
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&style=plastic" /> 
   <img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white&style=plastic" /> 
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&style=plastic" /> 
-  <img src="https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white&style=plastic" /> 
-  <img alt="Rails" src="https://img.shields.io/badge/Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white&style=plastic"/> 
-  <img src="https://img.shields.io/badge/Rspec-CC0000?style=for-the-badge&logo=RubyGems&logoColor=white&style=plastic" />
+  <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-%238D6748?style=for-the-badge&logo=Mocha&logoColor=white&style=plastic" /> 
   
 </p>
 
