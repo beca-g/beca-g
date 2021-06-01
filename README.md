@@ -5,7 +5,7 @@
 
 **👩🏼‍💻 About to start my first job in tech**
 
-**👩🏼‍🎨 Professional experience in** Product Development, Account Management and Production Managment in Fashion
+**👩🏼‍🎨 Professional experience in** Product Development & Production Managment in Fashion
 
 **👩🏼‍🎓 Studied Software Engineering at [Makers Academy](https://makers.tech/)**
 
