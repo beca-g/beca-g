@@ -1,7 +1,4 @@
-### Hey, I'm Beca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="" width="22px" src="" />
-</a>
+### Hey, I'm Beca 
 
 **👩🏼‍💻 About to start my first job in tech**
 
